@@ -19,8 +19,8 @@ editor_options:
 ## Announcements
 
 -   Course and TA evaluations
-    -   If we can get to \>=90% participation for both, each person gets +5 points on their lowest (not dropped) homework score.
-    -   Current participation rate: TA evals 8.5% and course evals 5.9%.
+    -   If we can get to \>=80% participation for both, each person gets +5 points on their lowest (not dropped) homework score.
+    -   Current participation rate: course evals 15.9%.
 -   [Project 1s are posted on the course website](https://vizdata.org/student-work/project-1.html). I will remove the scores from the repos after the semester ends.
 -   Also posted are your [thank you cards](https://vizdata.org/student-work/thank-you.html) and [ugly plots](https://vizdata.org/student-work/ugly-plot.html)!
 

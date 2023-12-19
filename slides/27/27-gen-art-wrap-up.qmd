@@ -18,17 +18,15 @@ editor_options:
 
 ## Announcements
 
--   Peer eval 2 is due today at 5pm.
+-   Peer eval 2 is due Friday at 5pm (form released today).
 
--   Course + TA evaluations are due on Thursday.
+-   Course evaluations:
 
--   Don't
+    -   +5 points on a HW (out of 100) if we get to 80% completion
+
+    -   Currently at 38.46%
 
 ## Projects presentations
-
-Show up at the beginning (or, better yet, 10 mins before) the time period you're assigned to:
-
-![](images/project_presentations.png){fig-alt="Project presentation time periods" fig-align="center" width="400"}
 
 ::: task
 Any questions / things I can clarify about the projects or anything else we have covered so far?
@@ -40,27 +38,21 @@ Any questions / things I can clarify about the projects or anything else we have
 
 ::: columns
 ::: {.column width="33%"}
-![](/student-work/images/thank-you-cards/thank-you-alyssashi.png)
+![](/student-work/images/thank-you-cards/thankyou-bharath03-a.png)
 :::
 
 ::: {.column width="33%"}
-![](/student-work/images/thank-you-cards/thank-you-matt-mohn.png)
+![](/student-work/images/thank-you-cards/thankyou-KiwoonHong.png)
 :::
 
 ::: {.column width="33%"}
-![](/student-work/images/thank-you-cards/thank-you-konn1ehuang.png)
+![](/student-work/images/thank-you-cards/thankyou-Priyarsha31.png)
 :::
 :::
 
 ## Best ugly plot
 
-![](/student-work/images/ugly-plots/ugly-plot-a21potter.png){width="1000"}
-
-## Best team name
-
-<br><br>
-
-Marvel Cinematic Tidyverse
+![](/student-work/images/ugly-plots/ugly-plot-shalonwalter.png)
 
 # Generative art
 
@@ -430,10 +422,20 @@ build_art(
     -   Shape
     -   ...
 
-## Livecoding
+## Writing over images
 
-::: task
-Go to `ae-27` and let's make some flowers!
+::: columns
+::: {.column width="33%"}
+![](images/20200908.png)
+:::
+
+::: {.column width="33%"}
+![](images/genimage-1.png)
+:::
+
+::: {.column width="33%"}
+![](images/genart2.jpeg)
+:::
 :::
 
 # Wrap up

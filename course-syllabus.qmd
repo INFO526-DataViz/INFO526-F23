@@ -150,7 +150,7 @@ Assessment for the course is comprised of four components: attendance and partic
 
     Each project will have a peer review component to provide at least one round of feedback during the process of development. Teams will provide periodic peer feedback to their teammates while working on the projects as well as upon completion. The scores from the peer evaluations, along with individual contributions tracked by commits on GitHub, will be used to ensure that each student has contributed to the teamwork.
 
-    All team members must take part in the presentation. Presentations can be given in person in class, or via Zoom if the team prefers. My preference is that the team stick to one method of delivery (all presenters in person or all presenters on Zoom), but I realize a lot can change throughout this semester, and we'll adjust accordingly.
+    All team members must take part in the presentation. Presentations must be given in person in class, or via Zoom if the team requires. My preference is that the team stick to one method of delivery (all presenters in person or all presenters on Zoom), but I realize a lot can change throughout this semester, and we'll adjust accordingly.
 
 All work is expected to be submitted by the deadline and there are no make ups for any missed assessments. See \[Late work policy\] for policies on late work.
 
